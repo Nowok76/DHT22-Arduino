@@ -54,7 +54,7 @@ void loop()
     Serial.print(";");
     Serial.print(d);  
     Serial.print(";");
-    Serial.print(sensorValue);  // println daje przeskok do następnej linijki
+    Serial.print(sensorValue);
     Serial.print(";");
     Serial.print(nRainVal);
     Serial.print(";");
